@@ -1,0 +1,3 @@
+pancakes,100
+music,190
+gaming,110
